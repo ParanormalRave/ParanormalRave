@@ -27,7 +27,6 @@ DevOps Engineer · Web3 Builder · Frontend Dev · Women in DeFi · Learning in 
 ![Solana](https://img.shields.io/badge/Solana-%239945FF.svg?style=flat&logo=solana&logoColor=white)
 ![DeFi](https://img.shields.io/badge/DeFi-%23E91E8C.svg?style=flat&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ---
 
