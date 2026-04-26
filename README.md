@@ -1,4 +1,5 @@
 # Hi, I'm Rave 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParanormalRave&show_icons=true&theme=dark)
 
 DevOps Engineer · Web3 Builder · Frontend Dev · Women in DeFi · Learning in Public
 
