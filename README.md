@@ -1,4 +1,5 @@
 # Hi, I'm Rave 👋
+https://readme-typing-svg.demolab.com/demo/?duration=4000&pause=500&color=CF2B25CD&lines=Paranormal;Build;Grow
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParanormalRave&show_icons=true&theme=dark)
 
 DevOps Engineer · Web3 Builder · Frontend Dev · Women in DeFi · Learning in Public
